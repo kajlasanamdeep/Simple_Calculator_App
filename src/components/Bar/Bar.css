@@ -1,0 +1,16 @@
+.bar {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid whitesmoke;
+    border-radius: 1%;
+    height: 10vh;
+    width: 100%;
+    justify-content: flex-end;
+    margin: auto;
+    font-size: 2.5rem;
+    overflow-x: auto;
+    background-color: lightskyblue;
+    transition: all .2s ease-in-out;
+    -webkit-box-shadow: 0px 1px 4px 0px whitesmoke;
+    box-shadow: 0px 1px 4px 0px whitesmoke;
+}
